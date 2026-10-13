@@ -1,0 +1,1 @@
+"""Configuration layer — settings model, defaults, dialect presets."""
