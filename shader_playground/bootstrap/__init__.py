@@ -1,0 +1,1 @@
+"""Bootstrap layer — process entry, arg parsing, Qt application setup."""
