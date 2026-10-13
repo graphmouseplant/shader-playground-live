@@ -1,0 +1,1 @@
+"""Core engine — dialect detection, compilation, uniform reflection, render loop."""
